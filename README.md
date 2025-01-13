@@ -1,8 +1,8 @@
 # Hello! 🙃
 ## About Me 🧐
-- I'm very new to the programming world 😐
+- I'm new to the programming world 😐
 - I'm excited to explore and learn 🤓
-- I'm currently learning C in college 😯
-- I'm learning Python at home 😲
+- I'm currently learning Java in college along with lots of other computer science concepts😯
+- I'm learning HTML, CSS, and Javascript at home 😲
 ## Likes 🥰
 # 🥧🍳🪴🐶🌏🎭🎶
